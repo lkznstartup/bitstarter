@@ -3,7 +3,6 @@ var fs = require('fs');
 <<<<<<< HEAD
 =======
 
->>>>>>> 7cb75074a300599053eaf7d24b874156ad464d2e
 var app = express.createServer(express.logger());
 
 app.get('/', function(request, response) {
